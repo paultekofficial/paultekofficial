@@ -1,18 +1,5 @@
 ## Hi, I'm Paul 👋
 
-**What am I:**
-- A **customer-centric product leader** who balances innovation with execution.
-- A **systems thinker** who connects product, engineering, and business strategy.
-- A **mentor and coach**, helping shape the next generation of product professionals.
-
-**What do I do:**
-- Define and execute product strategies that drive growth and revenue.
-- Partner with engineering, design, and leadership to bring complex products to highly-regulated markets.
-- Assemble high-performing product teams to deliver value.
-
-**What is my superpower:**
-- Turning complex challenges into clear, actionable roadmaps that deliver measurable value.
-
 ## A few things that I do:  
 - ✨ **Build and scale Product** — leading product development at Block Markets Africa, a world-class infrastructure for digital assets and rapid payments empowering financial market participants to innovate and remain competitive.
 - 🎤 **Engage with startup founders** — actively involved in startup ecosystems South Africa, Nigeria and Kenya, helping early-stage companies navigate product development, growth, and fundraising.  
